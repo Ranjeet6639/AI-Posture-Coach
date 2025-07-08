@@ -18,8 +18,8 @@ The application is designed to be responsive and works on both desktop and mobil
 ## How to Run Locally
 
 1. Clone the repository:
-git clone https://github.com/your-username/posture-evaluation.git
-cd posture-evaluation
+-by downloading the zip file
+-Then run it in vs code.
 
 2.Install dependencies:
 npm install

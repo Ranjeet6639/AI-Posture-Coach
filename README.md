@@ -32,3 +32,5 @@ http://localhost:3000
 
 Here is the Example of "AI Posture Coach"
 https://ai-posture-coach.vercel.app/
+
+<img width="1492" height="877" alt="image" src="/image.png" />

@@ -29,3 +29,6 @@ npm run dev
 
 4.Open your browser and go to:
 http://localhost:3000
+
+Here is the Example of "AI Posture Coach"
+https://ai-posture-coach.vercel.app/
